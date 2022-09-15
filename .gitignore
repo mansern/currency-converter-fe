@@ -1,0 +1,8 @@
+# compiled output
+dist
+node_modules
+.env
+.env.sample
+package-lock.json
+# Tests
+/coverage

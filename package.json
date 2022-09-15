@@ -1,0 +1,30 @@
+{
+  "name": "currency-converter-fe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.23.1",
+    "axios": "^0.27.2",
+    "fetch": "^1.1.0",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^3.10.0",
+    "tailwindcss": "^1.6.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0",
+    "jest": "^27.5.1"
+  }
+}
